@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: Baoqing Yue
 description: Department of Computer Science and Technology, Tsinghua University
 Gemfile:gem "github-pages", group: :jekyll_plugins
-logo: "https://github.com/ybq22/ybq22.github.io/raw/main/me.png"
+logo: "https://github.com/ybq22/ybq22.github.io/blob/main/me.png"
 googlescholar    : "https://scholar.google.com/citations?user=qdS8diQAAAAJ&hl=en&oi=ao"
 Contact    : "ybq22@mails.tsinghua.edu.cn"
