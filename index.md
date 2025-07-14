@@ -51,12 +51,4 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 # Vistors of this Site
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=GSlcQ6thoCo-X_uF8cQHnLjSZ5jzHTVAmn7ERchT880"></script>
-
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=GSlcQ6thoCo-X_uF8cQHnLjSZ5jzHTVAmn7ERchT880&cl=ffffff&w=a"></script>
-
-
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=GSlcQ6thoCo-X_uF8cQHnLjSZ5jzHTVAmn7ERchT880'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=O11I9WB_A0gBhsy9OKBLqlmca638ZFpRcugvbG028cg&cl=ffffff&w=a"></script>
