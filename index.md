@@ -1,10 +1,11 @@
 # About me
 
-Welcome to my homepage! I am Baoqing Yue (岳葆青), a third-year undergraduate student at the Department of Computer Science and Technology, Tsinghua University. 
+Welcome to my homepage! I am Baoqing Yue (岳葆青), a fourth-year undergraduate student at the Department of Computer Science and Technology, Tsinghua University. I am currently under the supervision of Prof. Jingtao Zhan.
 
 My research focuses on exploring the relationship between AI and Search technologies, specifically in the following areas:
 
 - User simulation
+- AI Interprebility
 - Retrieval Augmented Generation
 - AI for Legal Applications
 
