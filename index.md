@@ -1,13 +1,12 @@
 # About me
 
-Welcome to my homepage! I am Baoqing Yue (岳葆青), a fourth-year undergraduate student at the Department of Computer Science and Technology, Tsinghua University. I am currently under the supervision of Prof. Jingtao Zhan.
+Welcome to my homepage! I am Baoqing Yue (岳葆青), a fourth-year undergraduate student at the Department of Computer Science and Technology, Tsinghua University. I am currently under the supervision of Assistant Prof. Jingtao Zhan.
 
 My research focuses on exploring the relationship between AI and Search technologies, specifically in the following areas:
 
-- User simulation
-- AI Interprebility
+- Foundation of AI
 - Retrieval Augmented Generation
-- AI for Legal Applications
+- Vertical Domain AI Applications
 
 
 
@@ -22,7 +21,9 @@ My research focuses on exploring the relationship between AI and Search technolo
 
 # Selected Awards
 
-More is coming.
+Volunteer Excellent Award (2023, 2024)
+
+Social Practice Excellent Award (2023)
 
 
 
@@ -38,7 +39,10 @@ The titles of my first-author papers are in bold (excluding co-first where the r
 
 
 
-- **Efficient Parametric Knowledge Injection On-the-Fly for Dynamic Retrieval Augmented Generation**<br/>Weihang Su, **Baoqing Yue**, Qingyao Ai, Yichen Tang, Changyue Wang, Jiacheng Kang, Jingtao Zhan, Lin Fen, Liu Qin, Yiqun Liu<br/>(Long Paper) 
+- **Efficient Parametric Knowledge Injection On-the-Fly for Dynamic Retrieval Augmented Generation**<br/>Weihang Su, **Baoqing Yue**, Qingyao Ai, Yichen Tang, Changyue Wang, Jiacheng Kang, Jingtao Zhan, Lin Fen, Liu Qin, Yiqun Liu<br/>(Long Paper)
+
+- **Relative-Based Scaling Law for Neural Language Models**
+<br/>**Baoqing Yue**, Jinyuan Zhou, Zixi Wei, Jingtao Zhan, Qingyao Ai, Yiqun Liu<br/>(Long Paper)
 
 
 
